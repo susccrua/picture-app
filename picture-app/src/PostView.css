@@ -1,0 +1,8 @@
+.postView {
+    position: relative;
+}
+
+.postView > img {
+    cursor: pointer;
+}
+
